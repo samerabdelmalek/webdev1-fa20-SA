@@ -1,3 +1,57 @@
-h1{
-    color: red;
+* {margin: 0; padding: 0; box-sizing: border-box;}
+.container{
+    width: 80vs;
+    height: 60vh;
+    margin: 0 auto;
+    border: 2px solid green;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
 }
+
+.box{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 6px;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flexed{
+    display: flex;
+    flex-direction: column;
+}
+
+.right-section{
+    border: 4px dotted red;
+    border-radius: 15px;
+    width: 300px;
+}
+
+.middle-section{
+    border: 6px dashed seagreen;
+    border-radius: 15px;
+    
+
+}
+ .left-section{
+border: 2px solid blue;
+border-radius: 15px;
+width: 250px;
+flex-direction: row;
+flex-wrap: wrap;
+justify
+
+
+ }
+
+
+
+
+
