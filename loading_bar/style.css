@@ -11,19 +11,19 @@
     animation: loading 1s ease-in-out infinite;
   }
   .bar:nth-child(1) {
-    background-color: #3498db;
+    background-color: #000000;
     animation-delay: 0;
   }
   .bar:nth-child(2) {
-    background-color: #c0392b;
+    background-color: #000000;
     animation-delay: 0.09s;
   }
   .bar:nth-child(3) {
-    background-color: #f1c40f;
+    background-color: #000000;
     animation-delay: .18s;
   }
   .bar:nth-child(4) {
-    background-color: #27ae60;
+    background-color: #000000;
     animation-delay: .27s;
   }
   
