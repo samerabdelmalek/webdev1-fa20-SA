@@ -1,0 +1,12 @@
+h1{
+    color: burlywood;
+}
+
+a{
+    color: red;
+    font-size: 25px;
+}
+
+a:hover{
+    color: blue;
+}

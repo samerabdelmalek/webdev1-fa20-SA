@@ -1,0 +1,15 @@
+h1{
+    color: lightcoral;
+}
+
+.box{
+
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+    transition: width 2s;
+}
+
+div:hover {
+    width: 300px;
+  }

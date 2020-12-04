@@ -1,0 +1,10 @@
+h1{
+    color: green;
+}
+
+
+.box{
+    width: 50vmax;
+    height: 20vmin;
+    background-color: red;
+}
